@@ -1,0 +1,20 @@
+C:\Users\babaduk\Documents\.1) Second-third course\OOP\Validator\Validator\bin\Debug\Validator.exe.config
+C:\Users\babaduk\Documents\.1) Second-third course\OOP\Validator\Validator\bin\Debug\Validator.exe
+C:\Users\babaduk\Documents\.1) Second-third course\OOP\Validator\Validator\bin\Debug\Validator.pdb
+C:\Users\babaduk\Documents\.1) Second-third course\OOP\Validator\Validator\obj\Debug\Validator.csprojAssemblyReference.cache
+C:\Users\babaduk\Documents\.1) Second-third course\OOP\Validator\Validator\obj\Debug\Validator.Form1.resources
+C:\Users\babaduk\Documents\.1) Second-third course\OOP\Validator\Validator\obj\Debug\Validator.Properties.Resources.resources
+C:\Users\babaduk\Documents\.1) Second-third course\OOP\Validator\Validator\obj\Debug\Validator.csproj.GenerateResource.cache
+C:\Users\babaduk\Documents\.1) Second-third course\OOP\Validator\Validator\obj\Debug\Validator.csproj.CoreCompileInputs.cache
+C:\Users\babaduk\Documents\.1) Second-third course\OOP\Validator\Validator\obj\Debug\Validator.exe
+C:\Users\babaduk\Documents\.1) Second-third course\OOP\Validator\Validator\obj\Debug\Validator.pdb
+C:\Users\Demo\Desktop\Работа\Русакова Программирование\Validator\Validator\Validator\bin\Debug\Validator.exe.config
+C:\Users\Demo\Desktop\Работа\Русакова Программирование\Validator\Validator\Validator\bin\Debug\Validator.exe
+C:\Users\Demo\Desktop\Работа\Русакова Программирование\Validator\Validator\Validator\bin\Debug\Validator.pdb
+C:\Users\Demo\Desktop\Работа\Русакова Программирование\Validator\Validator\Validator\obj\Debug\Validator.Form1.resources
+C:\Users\Demo\Desktop\Работа\Русакова Программирование\Validator\Validator\Validator\obj\Debug\Validator.Properties.Resources.resources
+C:\Users\Demo\Desktop\Работа\Русакова Программирование\Validator\Validator\Validator\obj\Debug\Validator.csproj.GenerateResource.Cache
+C:\Users\Demo\Desktop\Работа\Русакова Программирование\Validator\Validator\Validator\obj\Debug\Validator.csproj.CoreCompileInputs.cache
+C:\Users\Demo\Desktop\Работа\Русакова Программирование\Validator\Validator\Validator\obj\Debug\Validator.exe
+C:\Users\Demo\Desktop\Работа\Русакова Программирование\Validator\Validator\Validator\obj\Debug\Validator.pdb
+C:\Users\Demo\Desktop\Работа\Русакова Программирование\Validator\Validator\Validator\obj\Debug\Validator.csprojResolveAssemblyReference.cache
